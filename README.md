@@ -1,2 +1,2 @@
 # WhatsApp-Emoji-Counter
-WhatsApp grup mesajlarına gönderilen emoji sayısını çıkarın
+Subtraction the number of emojis sent to WhatsApp group messages
